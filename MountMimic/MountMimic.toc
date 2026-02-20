@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: MountMimic
+## Notes: Spot what mount your target is riding and match it if you own it.
+## Author: YourName
+## Version: 1.0.0
+## SavedVariables:
+
+MountMimic.lua
